@@ -1,6 +1,7 @@
 {
 	"author": "Vikrant Bhurke",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Web app to teach people coding",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
