@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "Web app to teach people coding",
 	"license": "MIT",
+	"version": "1.2.0",
 	"keywords": ["freecodecamp", "Vikrant Bhurke", "Coding"],
 	"dependencies": {
 		"express": "^4.14.0"
